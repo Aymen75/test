@@ -1,0 +1,11 @@
+steak
+tomates
+cheese
+oignons
+cornichons
+ketchup
+moutarde
+:wq
+
+
+s
